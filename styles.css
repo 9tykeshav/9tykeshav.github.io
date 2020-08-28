@@ -1,3 +1,9 @@
 body {
    background-color : powderblue ;
 }
+
+#AiResponse {
+   border-style : solid ; 
+   border-width : medium;
+
+}
